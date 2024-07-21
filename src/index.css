@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.decideFont{
+  font-family: 'Georgia', 'cursive', 'Verdana', 'sans-serif';
+}
+.removeCart:hover{
+  cursor: pointer;
+  border-color: white;
+  border-width: "10px";
+  
+}
+.addNewItem:hover{
+  cursor: pointer;
+}

@@ -54,6 +54,9 @@ export default function AddNewFood() {
     if(!json.success){
       alert(json.msg);
     }
+
+
+    
     else if(json.success){
       alert(json.msg);
       navigate("/addnewfood");
